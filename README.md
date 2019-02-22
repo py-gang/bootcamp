@@ -1,7 +1,5 @@
 # Python Bootcamp
 
-
-
 ## Curriculum
 
 Bootcamp curriculum comprises a set of shared modules
@@ -11,12 +9,11 @@ Shared modules are aimed at skills that are required
 or good to have by every Python developer disregarding
 the selected field of specialization.
 
-
 ### Shared modules
 
 #### Git and Github
 
-1. Git Basics
+1. [Git Basics](./modules/git-basics.md)
 1. Git Collaboration
 1. GitHub
 1. Git Ninja
