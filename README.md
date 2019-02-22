@@ -27,10 +27,16 @@ the selected field of specialization.
 
 ### Specialization topics
 
+_TBD_
+
 #### Data Science
+
+_TBD_
 
 #### Quality Assurance
 
+_TBD_
+
 #### Machine Learning and Computer Vision
 
-
+_TBD_
