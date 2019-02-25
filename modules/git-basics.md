@@ -18,6 +18,13 @@ Skip any topic or section you feel yourself confident in.
    - Add Commits To a Repo
    - Tagging, Branching, Merging
    - Undoing Changes
+   
+   You may resort to subtitles/closed captions and
+   to auto-translated subtitles in particular if you feel
+   it would help you to digest the video course better.
+   
+   ![youtube-CC-guide](./img/youtube-captions.png)
+   
 2. Complete following levels at https://learngitbranching.js.org/
    - Main: Introduction Section
    - Remotes: Push & Pull -- Git Remotes
