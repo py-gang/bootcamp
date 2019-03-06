@@ -64,6 +64,11 @@ feel most comfortable with.
 If you find some topic not sufficiently disclosed in any
 materials, just, let us know.
 
+:gift: Did you know, Trello, Slack, Telegram and many other tools
+support MarkDown to a great extent?
+JIRA also uses notation similar to MarkDown yet different in many
+aspects.
+
 ## When completed
 
 When done let others know you have passed this module.
