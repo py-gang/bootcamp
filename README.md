@@ -21,6 +21,9 @@ the selected field of specialization.
 #### Python
 
 1. Dev Tools
+
+- [PyCharm plgins](http://....)
+
 1. Essentials
 1. Data Structures and Algorithms
 
