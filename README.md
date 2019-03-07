@@ -15,7 +15,7 @@ the selected field of specialization.
 
 1. [Git Basics](./modules/git-basics.md)
 1. [Git Collaboration](./modules/git-collaboration.md)
-1. GitHub
+1. [GitHub](./modules/github.md)
 1. Git Ninja
 
 #### Python
