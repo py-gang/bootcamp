@@ -1,7 +1,29 @@
-# Collaborating on GitHub - part 1
+# Collaborating on GitHub
 
 GitHub module looks big. Actually it is more about concepts
 and tasks are tiny.
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of contents
+
+- [Intro to problem solving](#intro-to-problem-solving)
+- [Targets](#targets)
+- [Learn or refresh and Do](#learn-or-refresh-and-do)
+  - [Issues](#issues)
+  - [Discussion](#discussion)
+  - [Pull request](#pull-request)
+  - [Code review](#code-review)
+  - [Code conflict resolution](#code-conflict-resolution)
+  - [Approve and Merge Pull Request](#approve-and-merge-pull-request)
+  - [Draft pull request](#draft-pull-request)
+  - [Forking](#forking)
+- [When completed](#when-completed)
+- [Extras](#extras)
+  - [Gist](#gist)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## Intro to problem solving
 
@@ -266,6 +288,7 @@ can be merged into master.
 
 **Read**
 
+[About merge methods on GitHub](https://help.github.com/en/articles/about-merge-methods-on-github)
 
 **Do**
 
@@ -311,7 +334,7 @@ code, e.g. when you get stuck and need help or an advice.
 
 **Read**
 
-- [Introducing Draft Pull Requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
+[Introducing Draft Pull Requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
 
 ### Forking
 
@@ -333,11 +356,11 @@ pull requests.
 
 **Read**
 
-- [Forking projects](https://guides.github.com/activities/forking/)
+[Forking projects](https://guides.github.com/activities/forking/)
 
 **Do**
 
-- [Fork a repo practice](https://help.github.com/en/articles/fork-a-repo)
+[Fork a repo practice](https://help.github.com/en/articles/fork-a-repo)
 
 ## When completed
 
