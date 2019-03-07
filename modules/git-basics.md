@@ -36,6 +36,15 @@ Skip any topic or section you feel yourself confident in.
 Feel free using automated caption translation in videos
 and Google Translate for textual information.
 
+**Extras**
+
+1. [Git Screencast [rus]](https://learn.javascript.ru/screencast/git) -
+   72 tiny videos (~3 minutes each) - select the topics that were
+   not clear to you from the materials above
+1. [Visualizing Git Sandbox](http://git-school.github.io/visualizing-git/) -
+   also offers pre-sets available from a dropdown in the upper left corner
+1. [Git Cheatsheets](https://services.github.com/on-demand/resources/cheatsheets/)
+
 ## Do
 
 Time for little practice. We shall establish a repo
