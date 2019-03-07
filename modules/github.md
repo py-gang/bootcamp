@@ -145,7 +145,9 @@ to be populated with educational content. Let's take this as a lack of a feature
 
 Option 3. Any other bug, need of improvement or lack of a feature.
 
-Cannot invent a problem? No problem. Just ask your peers for support and ideas.
+Cannot invent a problem? No problem. Check this 
+[document full of typos](./github-typos.md).
+Or just ask your peers for support and ideas.
 
 Simple issues (like typos) can be resolved with a single commit and without
 a discussion. But let's train on a simple cases to be ready for
