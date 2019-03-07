@@ -69,6 +69,12 @@ support MarkDown to a great extent?
 JIRA also uses notation similar to MarkDown yet different in many
 aspects.
 
+Wonna see what MarkDown syntax is used to design a particular document?
+Navigate to it in the browser
+(e.g. [git-basics.md](https://github.com/py-gang/bootcamp/blob/master/modules/git-basics.md))
+and click button **Raw** in the file's top bar. You will see the file's guts
+(e.g. [git-basics.md source](https://raw.githubusercontent.com/py-gang/bootcamp/master/modules/git-basics.md))
+
 ## When completed
 
 When done let others know you have passed this module.
