@@ -25,7 +25,7 @@ Skip any topic or section you feel yourself confident in.
    
    ![youtube-CC-guide](./img/youtube-captions.png)
    
-2. Complete following levels at [Lern git Branching](https://learngitbranching.js.org/)
+2. Complete following levels at [Learn git Branching](https://learngitbranching.js.org/)
    - Main: Introduction Section
    - Remotes: Push & Pull -- Git Remotes
 3. Markdown is a simple syntax to create nicely formatted 
