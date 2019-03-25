@@ -20,7 +20,7 @@ the selected field of specialization.
 
 #### Python
 
-1. [Dev Tools](./modules/git-basics.md)
+1. [Dev Tools](./modules/dev-tools.md)
 1. Essentials
 1. Data Structures and Algorithms
 
