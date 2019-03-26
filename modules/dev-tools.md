@@ -44,8 +44,17 @@ provides for guidelines to managing multiple environments.
 ### Integrated Development Environment
 
 [PyCharm](https://www.jetbrains.com/pycharm/) is a recommended IDE.
-It is a commercial product yet offers
-[free individual licenses for students and faculty members](https://www.jetbrains.com/student/)
+Choose between:
+ - fully fledged commercial [PyCharm Pro](https://www.jetbrains.com/pycharm/download/) that offers
+   [free individual licenses for students and faculty members](https://www.jetbrains.com/student/) though
+ - [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/download/),
+   not so rich in features as Pro, yet offers more features than Community does
+ - free yet feature depleted [PyCharm Community](https://www.jetbrains.com/pycharm/download/)
+
+For editions comparison see
+[Pro vs Community explained](https://blog.jetbrains.com/pycharm/2017/09/pycharm-community-edition-and-professional-edition-explained-licenses-and-more/),
+[Pro vs Community comparison matrix](https://www.jetbrains.com/pycharm/features/editions_comparison_matrix.html),
+[Edu vs Community](https://news.ycombinator.com/item?id=13851218).
 
 Skip the following if you manage things with PyCharm successfully. 
 
