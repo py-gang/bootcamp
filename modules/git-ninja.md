@@ -12,7 +12,7 @@ _Work In Progress_
 
 ...
 
-1. Complete following levels at https://learngitbranching.js.org/ section Main
+1. Complete following levels at [Link](https://learngitbranching.js.org/) section Main
    - Moving Work Around
    - A Mixed Bag
    - Advanced Topics
